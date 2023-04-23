@@ -343,5 +343,3 @@ function dynamicCard() {
     }
   });
 }
-
-//check com
