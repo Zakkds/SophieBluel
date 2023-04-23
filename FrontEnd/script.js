@@ -343,3 +343,4 @@ function dynamicCard() {
     }
   });
 }
+//pasusr
